@@ -36,6 +36,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alsofer.FluxoCaixa.IOC", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alsofer.FluxoCaixa.API", "Alsofer.FluxoCaixa.API\Alsofer.FluxoCaixa.API.csproj", "{12B121DA-1A01-46D6-911C-341920CC914D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alsofer.FluxoCaixa.Test", "Alsofer.FluxoCaixa.Test\Alsofer.FluxoCaixa.Test.csproj", "{269ED6B6-D92F-4448-9B8C-2E47DA418AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{12B121DA-1A01-46D6-911C-341920CC914D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B121DA-1A01-46D6-911C-341920CC914D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B121DA-1A01-46D6-911C-341920CC914D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269ED6B6-D92F-4448-9B8C-2E47DA418AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269ED6B6-D92F-4448-9B8C-2E47DA418AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269ED6B6-D92F-4448-9B8C-2E47DA418AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269ED6B6-D92F-4448-9B8C-2E47DA418AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{B85DCE5D-E9B8-441D-A3D4-734EC44B5BAA} = {9A9809C6-4822-4677-A576-9D24693DB6E0}
 		{55BFBA3B-FA61-42D2-8C44-97FFCC62C986} = {9B7A7CB0-B4BE-4C8B-9429-77605DD9E4FB}
 		{12B121DA-1A01-46D6-911C-341920CC914D} = {5D6C2FC5-AA48-4B68-82B4-C070A060B45F}
+		{269ED6B6-D92F-4448-9B8C-2E47DA418AE9} = {D6773C02-FB5D-4FD1-8DB0-6FEDB1DB639F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C2D6EE55-B73B-4783-8DBC-B1D14BCDF329}
